@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="" />
-
-# Tanush Reddy
+<img src="banner.svg" width="100%" alt="Tanush Reddy" />
 
 **CS student · building with AI & Python**
 
