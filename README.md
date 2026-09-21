@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="banner.svg" width="100%" alt="" />
+
 # Tanush Reddy
 
 **CS student · building with AI & Python**
@@ -46,3 +48,7 @@ Building tools that solve real problems — from AI workday assistants to crop r
 
 [![DEV Blog](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tanushreddydev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanushReddy-Dev)
+
+<div align="center">
+<img src="activity.svg" alt="" />
+</div>

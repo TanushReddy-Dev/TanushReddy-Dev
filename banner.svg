@@ -1,0 +1,46 @@
+<svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Floating geometric shapes in tech stack colors, softly drifting -->
+
+  <!-- Python blue circle -->
+  <circle cx="80" cy="50" r="6" fill="#3776AB" opacity="0.6">
+    <animate attributeName="cy" values="50;38;50" dur="5s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- TypeScript blue square -->
+  <rect x="180" y="44" width="10" height="10" rx="2" fill="#3178C6" opacity="0.5">
+    <animate attributeName="y" values="44;56;44" dur="7s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Small dot -->
+  <circle cx="280" cy="55" r="3" fill="#58A6FF" opacity="0.35">
+    <animate attributeName="cy" values="55;42;55" dur="4s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Kotlin purple diamond -->
+  <rect x="370" y="45" width="8" height="8" rx="1" fill="#7F52FF" opacity="0.5" transform="rotate(45 374 49)">
+    <animate attributeName="y" values="45;55;45" dur="6s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Tailwind cyan circle -->
+  <circle cx="480" cy="42" r="5" fill="#06B6D4" opacity="0.5">
+    <animate attributeName="cy" values="42;55;42" dur="8s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Small dot -->
+  <circle cx="560" cy="58" r="3" fill="#3776AB" opacity="0.3">
+    <animate attributeName="cy" values="58;44;58" dur="5.5s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Google blue square -->
+  <rect x="640" y="48" width="9" height="9" rx="2" fill="#4285F4" opacity="0.45">
+    <animate attributeName="y" values="48;38;48" dur="6.5s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Docker blue circle -->
+  <circle cx="740" cy="45" r="4" fill="#2496ED" opacity="0.4">
+    <animate attributeName="cy" values="45;58;45" dur="7.5s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Connecting line -->
+  <line x1="60" y1="50" x2="760" y2="50" stroke="#30363d" stroke-width="0.5" opacity="0.3" />
+</svg>
