@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tanush Reddy 👋
+# Tanush Reddy
 
 **CS student · building with AI & Python**
 
@@ -10,13 +10,13 @@ Building tools that solve real problems — from AI workday assistants to crop r
 
 &nbsp;
 
-### 🔨 Currently Building
+### Currently Building
 
 **[Flowdesk](https://github.com/TanushReddy-Dev/Flowdesk)** — AI-powered assistant that reads your Gmail + Calendar, uses Gemini to surface what matters, draft replies, and catch scheduling conflicts.
 
 &nbsp;
 
-### 🛠 Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,18 +29,18 @@ Building tools that solve real problems — from AI workday assistants to crop r
 
 &nbsp;
 
-### 📌 Projects
+### Projects
 
-| | Project | Description |
-|---|---|---|
-| 🤖 | [**Flowdesk**](https://github.com/TanushReddy-Dev/Flowdesk) | AI workday assistant — Gmail + Calendar + Gemini for briefings & smart replies |
-| 🌾 | [**agroai**](https://github.com/TanushReddy-Dev/agroai) | Smart crop recommendation system using ML |
-| 🌤 | [**CloudPeek**](https://github.com/TanushReddy-Dev/CloudPeek) | Instant weather lookups by city |
-| 📜 | [**ClauseGuard**](https://github.com/TanushReddy-Dev/ClauseGuard) | Contract clause analysis tool |
+| Project | Description |
+|---|---|
+| [**Flowdesk**](https://github.com/TanushReddy-Dev/Flowdesk) | AI workday assistant — Gmail + Calendar + Gemini for briefings & smart replies |
+| [**agroai**](https://github.com/TanushReddy-Dev/agroai) | Smart crop recommendation system using ML |
+| [**CloudPeek**](https://github.com/TanushReddy-Dev/CloudPeek) | Instant weather lookups by city |
+| [**ClauseGuard**](https://github.com/TanushReddy-Dev/ClauseGuard) | Contract clause analysis tool |
 
 &nbsp;
 
-### 🔗 Connect
+### Connect
 
 [![DEV Blog](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tanushreddydev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanushReddy-Dev)
