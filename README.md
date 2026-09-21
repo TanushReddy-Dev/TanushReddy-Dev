@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Tanush Reddy" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
+  <img src="banner-light.svg" width="100%" alt="Tanush Reddy" />
+</picture>
 
 **CS student · building with AI & Python**
 

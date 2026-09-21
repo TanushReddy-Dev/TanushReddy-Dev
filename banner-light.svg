@@ -1,22 +1,6 @@
 <svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
-  <!-- CSS for text styling with Dark/Light mode support -->
-  <style>
-    .name-text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      font-size: 56px;
-      font-weight: 800;
-      fill: #24292f; /* GitHub light mode text color */
-      letter-spacing: -1.5px;
-    }
-    @media (prefers-color-scheme: dark) {
-      .name-text {
-        fill: #c9d1d9; /* GitHub dark mode text color */
-      }
-    }
-  </style>
-
   <!-- Central text -->
-  <text x="400" y="95" class="name-text" text-anchor="middle">Tanush Reddy</text>
+  <text x="400" y="95" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56px" font-weight="800" fill="#24292f" letter-spacing="-1.5px" text-anchor="middle">Tanush Reddy</text>
 
   <!-- Floating geometric shapes in tech stack colors -->
   <!-- Top left Python blue -->
