@@ -1,19 +1,34 @@
+<div align="center">
+
 # Hey, I'm Tanush 👋
 
-CS student building tools with AI — from crop recommendation systems to workday assistants.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+student+%C2%B7+building+with+AI+%26+Python;Shipping+tools+that+solve+real+problems)](https://git.io/typing-svg)
 
-**Currently working on:** [Flowdesk](https://github.com/TanushReddy-Dev/Flowdesk) — an AI-powered assistant that reads your Gmail + Calendar to understand your workday context.
+<br/>
 
-## What I build with
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanushReddy-Dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanushReddy-Dev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanushReddy-Dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-## Featured
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📌 Featured Projects
 
 | Project | What it does |
 |---|---|
@@ -22,6 +37,16 @@ CS student building tools with AI — from crop recommendation systems to workda
 | [**CloudPeek**](https://github.com/TanushReddy-Dev/CloudPeek) | Instant weather lookups by city — clean and simple |
 | [**ClauseGuard**](https://github.com/TanushReddy-Dev/ClauseGuard) | Contract clause analysis tool |
 
-## Find me
+---
 
-[![DEV Blog](https://img.shields.io/badge/-DEV.to-0A0A0A?logo=devdotto&logoColor=white&style=flat)](https://dev.to/tanushreddydev)
+## 🔗 Find me
+
+[![DEV Blog](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tanushreddydev)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=TanushReddy-Dev&color=58a6ff&style=flat-square&label=Profile+Views)
+
+</div>
