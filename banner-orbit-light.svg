@@ -1,29 +1,29 @@
-<svg width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(400, 120)">
+<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(400, 140)">
     <!-- Outer -->
     <g transform="rotate(10)">
-      <path d="M -280,0 A 280,70 0 1,0 280,0 A 280,70 0 1,0 -280,0" fill="none" stroke="#e5e7eb" stroke-width="1.5" />
+      <path d="M -240,0 A 240,60 0 1,0 240,0 A 240,60 0 1,0 -240,0" fill="none" stroke="#e5e7eb" stroke-width="1.5" />
       <circle r="3.5" fill="#0969da" opacity="0.8">
-        <animateMotion dur="20s" repeatCount="indefinite" path="M -280,0 A 280,70 0 1,0 280,0 A 280,70 0 1,0 -280,0" />
+        <animateMotion dur="20s" repeatCount="indefinite" path="M -240,0 A 240,60 0 1,0 240,0 A 240,60 0 1,0 -240,0" />
       </circle>
     </g>
     <!-- Middle -->
     <g transform="rotate(-15)">
-      <path d="M -230,0 A 230,55 0 1,0 230,0 A 230,55 0 1,0 -230,0" fill="none" stroke="#e5e7eb" stroke-width="1.5" />
+      <path d="M -190,0 A 190,45 0 1,0 190,0 A 190,45 0 1,0 -190,0" fill="none" stroke="#e5e7eb" stroke-width="1.5" />
       <circle r="3" fill="#0969da" opacity="0.9">
-        <animateMotion dur="15s" repeatCount="indefinite" path="M -230,0 A 230,55 0 1,0 230,0 A 230,55 0 1,0 -230,0" />
+        <animateMotion dur="15s" repeatCount="indefinite" path="M -190,0 A 190,45 0 1,0 190,0 A 190,45 0 1,0 -190,0" />
       </circle>
     </g>
     <!-- Inner -->
     <g transform="rotate(25)">
-      <path d="M -170,0 A 170,40 0 1,0 170,0 A 170,40 0 1,0 -170,0" fill="none" stroke="#e5e7eb" stroke-width="1.5" />
+      <path d="M -140,0 A 140,30 0 1,0 140,0 A 140,30 0 1,0 -140,0" fill="none" stroke="#e5e7eb" stroke-width="1.5" />
       <circle r="4" fill="#0969da">
-        <animateMotion dur="10s" repeatCount="indefinite" path="M -170,0 A 170,40 0 1,0 170,0 A 170,40 0 1,0 -170,0" />
+        <animateMotion dur="10s" repeatCount="indefinite" path="M -140,0 A 140,30 0 1,0 140,0 A 140,30 0 1,0 -140,0" />
       </circle>
     </g>
   </g>
 
   <!-- Typography -->
-  <text x="400" y="95" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12px" font-weight="600" fill="#6e7781" letter-spacing="3px" text-anchor="middle">BUILDING WITH AI &amp; PYTHON</text>
-  <text x="400" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64px" font-weight="800" fill="#24292f" letter-spacing="-1.5px" text-anchor="middle">Tanush Reddy</text>
+  <text x="400" y="115" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12px" font-weight="600" fill="#6e7781" letter-spacing="3px" text-anchor="middle">BUILDING WITH AI &amp; PYTHON</text>
+  <text x="400" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64px" font-weight="800" fill="#24292f" letter-spacing="-1.5px" text-anchor="middle">Tanush Reddy</text>
 </svg>
