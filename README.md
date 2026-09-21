@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=2">
-  <img src="banner-light.svg?v=2" width="100%" alt="Tanush Reddy" />
+  <source media="(prefers-color-scheme: dark)" srcset="banner-wave-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner-wave-light.svg">
+  <img src="banner-wave-light.svg" width="100%" alt="Tanush Reddy" />
 </picture>
 
 **CS student · building with AI & Python**
