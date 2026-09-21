@@ -1,16 +1,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-wave-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banner-wave-light.svg">
-  <img src="banner-wave-light.svg" width="100%" alt="Tanush Reddy" />
+  <source media="(prefers-color-scheme: dark)" srcset="banner-orbit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner-orbit-light.svg">
+  <img src="banner-orbit-light.svg" width="100%" alt="Tanush Reddy - Building with AI & Python" />
 </picture>
 
-**CS student · building with AI & Python**
-
 Building tools that solve real problems — from AI workday assistants to crop recommendation systems.
-
-<img src="wave.svg" width="100%" alt="" />
 
 </div>
 
