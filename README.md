@@ -6,6 +6,8 @@
 
 Building tools that solve real problems — from AI workday assistants to crop recommendation systems.
 
+<img src="wave.svg" width="100%" alt="" />
+
 </div>
 
 &nbsp;
