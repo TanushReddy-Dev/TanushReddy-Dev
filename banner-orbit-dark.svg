@@ -1,23 +1,25 @@
 <svg width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
-  <!-- Center orbit system -->
   <g transform="translate(400, 120)">
-    <!-- Outer Orbit -->
-    <g>
-      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="40s" repeatCount="indefinite" />
-      <ellipse cx="0" cy="0" rx="320" ry="90" fill="none" stroke="#30363d" stroke-width="1.5" />
-      <circle cx="320" cy="0" r="3.5" fill="#58a6ff" opacity="0.8" />
+    <!-- Outer -->
+    <g transform="rotate(10)">
+      <path d="M -280,0 A 280,70 0 1,0 280,0 A 280,70 0 1,0 -280,0" fill="none" stroke="#30363d" stroke-width="1.5" />
+      <circle r="3.5" fill="#58a6ff" opacity="0.8">
+        <animateMotion dur="20s" repeatCount="indefinite" path="M -280,0 A 280,70 0 1,0 280,0 A 280,70 0 1,0 -280,0" />
+      </circle>
     </g>
-    <!-- Middle Orbit -->
-    <g>
-      <animateTransform attributeName="transform" type="rotate" values="60;420" dur="30s" repeatCount="indefinite" />
-      <ellipse cx="0" cy="0" rx="270" ry="70" fill="none" stroke="#30363d" stroke-width="1.5" />
-      <circle cx="-270" cy="0" r="3" fill="#58a6ff" opacity="0.9" />
+    <!-- Middle -->
+    <g transform="rotate(-15)">
+      <path d="M -230,0 A 230,55 0 1,0 230,0 A 230,55 0 1,0 -230,0" fill="none" stroke="#30363d" stroke-width="1.5" />
+      <circle r="3" fill="#58a6ff" opacity="0.9">
+        <animateMotion dur="15s" repeatCount="indefinite" path="M -230,0 A 230,55 0 1,0 230,0 A 230,55 0 1,0 -230,0" />
+      </circle>
     </g>
-    <!-- Inner Orbit -->
-    <g>
-      <animateTransform attributeName="transform" type="rotate" values="135;495" dur="20s" repeatCount="indefinite" />
-      <ellipse cx="0" cy="0" rx="220" ry="50" fill="none" stroke="#30363d" stroke-width="1.5" />
-      <circle cx="0" cy="50" r="4" fill="#58a6ff" />
+    <!-- Inner -->
+    <g transform="rotate(25)">
+      <path d="M -170,0 A 170,40 0 1,0 170,0 A 170,40 0 1,0 -170,0" fill="none" stroke="#30363d" stroke-width="1.5" />
+      <circle r="4" fill="#58a6ff">
+        <animateMotion dur="10s" repeatCount="indefinite" path="M -170,0 A 170,40 0 1,0 170,0 A 170,40 0 1,0 -170,0" />
+      </circle>
     </g>
   </g>
 

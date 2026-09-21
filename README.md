@@ -1,10 +1,11 @@
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-orbit-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banner-orbit-light.svg">
-  <img src="banner-orbit-light.svg" width="100%" alt="Tanush Reddy - Building with AI & Python" />
-</picture>
+<a href="https://github.com/TanushReddy-Dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-orbit-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="banner-orbit-light.svg?v=2">
+    <img src="banner-orbit-light.svg?v=2" width="100%" alt="Tanush Reddy - Building with AI & Python" />
+  </picture>
+</a>
 
 Building tools that solve real problems — from AI workday assistants to crop recommendation systems.
 
@@ -48,5 +49,11 @@ Building tools that solve real problems — from AI workday assistants to crop r
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanushReddy-Dev)
 
 <div align="center">
-<img src="activity.svg" alt="" />
+<a href="https://github.com/TanushReddy-Dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="activity-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="activity-light.svg">
+    <img src="activity-light.svg" alt="Activity" />
+  </picture>
+</a>
 </div>
